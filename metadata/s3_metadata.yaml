@@ -1,0 +1,11 @@
+s3_CreateBucket:
+  languages:
+    Fake:
+      versions:
+        - sdk_version: 1
+          github: fake/s3
+          sdkguide:
+          excerpts:
+            - description:
+              snippet_tags:
+                - fake.s3.CreateBucket

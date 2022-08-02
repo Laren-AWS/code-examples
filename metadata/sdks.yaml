@@ -1,0 +1,10 @@
+Fake:
+  property: none
+  sdk:
+    1:
+      long: "&CPPlong;"
+      short: "&CPP;"
+      api_ref:
+        uid: "SdkForCpp"
+        name: "&guide-cpp-api;"
+  guide: "&guide-cpp-dev;"
