@@ -1,4 +1,6 @@
 s3_CreateBucket:
+  title: Fake create bucket
+  title_abbrev: Fake bucket
   languages:
     Fake:
       versions:
