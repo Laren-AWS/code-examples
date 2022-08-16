@@ -1,13 +1,13 @@
 s3_CreateBucket:
-  title: Fake create bucket
-  title_abbrev: Fake bucket
+  title: JSON create bucket
+  title_abbrev: JSON bucket
   languages:
-    Fake:
+    JSON:
       versions:
         - sdk_version: 1
-          github: fake/s3
+          github: json/s3
           sdkguide:
           excerpts:
             - description:
               snippet_tags:
-                - fake.s3.CreateBucket
+                - json.s3.CreateBucket

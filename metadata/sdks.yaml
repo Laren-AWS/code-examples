@@ -1,10 +1,10 @@
-Fake:
-  property: none
+JSON:
+  property: json
   sdk:
     1:
-      long: "&CPPlong;"
-      short: "&CPP;"
+      long: "&JSONlong;"
+      short: "&JSON;"
       api_ref:
-        uid: "SdkForCpp"
-        name: "&guide-cpp-api;"
-  guide: "&guide-cpp-dev;"
+        uid: "SdkForJSON"
+        name: "&guide-json-api;"
+  guide: "&guide-json-dev;"

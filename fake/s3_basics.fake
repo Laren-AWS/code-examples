@@ -1,4 +1,0 @@
-# snippet-start:[fake.s3.CreateBucket]
-def Fake:
-    print("This is fake code.")
-# snippet-end:[fake.s3.CreateBucket]
