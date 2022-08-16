@@ -12,4 +12,4 @@ s3_CreateBucket:
               snippet_tags:
                 - json.s3.CreateBucket
   services:
-    - s3: {CreateBucket}
+    s3: {CreateBucket}
