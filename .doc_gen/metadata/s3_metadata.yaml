@@ -11,3 +11,5 @@ s3_CreateBucket:
             - description:
               snippet_tags:
                 - json.s3.CreateBucket
+  services:
+    - s3: {CreateBucket}
