@@ -5,7 +5,6 @@ s3_CreateBucket:
     JSON:
       versions:
         - sdk_version: 1
-          sdkguide:
           excerpts:
             - description:
               snippet_tags:
