@@ -5,7 +5,6 @@ s3_CreateBucket:
     JSON:
       versions:
         - sdk_version: 1
-          github: json/s3
           sdkguide:
           excerpts:
             - description:
