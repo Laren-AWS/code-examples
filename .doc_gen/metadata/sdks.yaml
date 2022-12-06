@@ -8,3 +8,23 @@ JSON:
         uid: "SdkForJSON"
         name: "&guide-json-api;"
   guide: "&guide-json-dev;"
+Python:
+  property: python
+  sdk:
+    fake_1:
+      long: "&Fakelong;"
+      short: "&Fake;"
+      api_ref:
+        uid: "FakeSdkForPython"
+        name: "&guide-fake-api;"
+  guide: "&guide-fake-dev;"
+Go:
+  property: go
+  sdk:
+    fake_1:
+      long: "&Fakelong;"
+      short: "&Fake;"
+      api_ref:
+        uid: "FakeSdkForGo"
+        name: "&guide-fake-api;"
+  guide: "&guide-fake-dev;"

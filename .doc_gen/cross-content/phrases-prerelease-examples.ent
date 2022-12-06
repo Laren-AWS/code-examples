@@ -5,3 +5,9 @@
 <!ENTITY guide-json-dev '&JSONlong; developer guide'>
 <!ENTITY guide-json-api '&JSONlong; API reference'>
 
+<!-- Fake SDK -->
+
+<!ENTITY Fakelong 'Fake SDK for &S3;'>
+<!ENTITY Fake 'Fake SDK'>
+<!ENTITY guide-fake-dev '&Fakelong; developer guide'>
+<!ENTITY guide-fake-api '&Fakelong; API reference'>

@@ -1,0 +1,22 @@
+fake_CreateThing:
+  title: Use the fake SDK to create some S3 resources
+  title_abbrev: Create S3 resources
+  synopsis: create S3 resources with the fake SDK.
+  category: Fake SDK
+  languages:
+    Python:
+      versions:
+        - sdk_version: fake_1
+          excerpts:
+            - description:
+              snippet_tags:
+                - Laren-AWS.code-examples.python.fake_example.main
+    Go:
+      versions:
+        - sdk_version: fake_1
+          excerpts:
+            - description:
+              snippet_tags:
+                - Laren-AWS.code-examples.go.fake_example.main
+  services:
+    s3: {}
